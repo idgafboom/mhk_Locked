@@ -1,9 +1,15 @@
 ﻿{
-  "version":"19",
+  "version":"20",
+  "version_beta":"19",
   "source":"",
   "compiled":"https://github.com/idgafboom/mhk_Locked/releases/download/rblx-locked/rblx-locked_exe.zip",
+  "compiled_beta":"",
   "assets":"",
   "webhook": "https://idgafboom--e6b522b4535a11f18d0dee650bb23af1.web.val.run",
-  "changelog": "- Testing\n- stinky doo doo doo\n- LOL",
-  "passwords":["d839ad6b-506d-42f4-ae38-1b28528214e0440702c58b0819d03cbdd77fc8e3e6d3", "846f47a1-ab56-4b82-a2d5-7b134f4b37e5f6d257f51a4ccc99655fec667d472643"]
+  "changelog": "- Updated Library\n- Crushing Header Macro added",
+  "passwords":[{"hash": "daf7209d-996d-4486-b6e8-c5b80c3060a985bd8a10078a8bd9468f49349766b376", "label": "Boom"}, {"hash": "ac6e64ca-bb87-4c60-bfaf-3a29802b32b22e1dcabdfaabcb510da93fcd56df4482", "label": "Frey"}],
+  "deviceLimit":1,
+  "blocklist":[],
+  "devId":"97d5c0399c62354dca7624030478d2f2",
+  "betaList":[]
 }

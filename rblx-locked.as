@@ -1,5 +1,5 @@
 ﻿{
-  "version":"26",
+  "version":"27",
   "version_beta":"19",
   "source":"",
   "compiled":"https://github.com/idgafboom/mhk_Locked/releases/download/rblx-locked/rblx-locked_exe.zip",

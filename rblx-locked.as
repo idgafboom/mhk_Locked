@@ -7,7 +7,7 @@
   "assets":"",
   "webhook": "https://idgafboom--e6b522b4535a11f18d0dee650bb23af1.web.val.run",
   "changelog": "- Gyro Ground Fixed",
-  "passwords":[{"hash": "daf7209d-996d-4486-b6e8-c5b80c3060a985bd8a10078a8bd9468f49349766b376", "label": "Boom"}, {"hash": "ac6e64ca-bb87-4c60-bfaf-3a29802b32b22e1dcabdfaabcb510da93fcd56df4482", "label": "Frey"}, {"hash": "df835578-5d14-4d7c-ac7f-97dad392a1ec17afdcaf29f1cddcee52b1c89de9368c", "label": "dread"}],
+  "passwords":[{"hash": "daf7209d-996d-4486-b6e8-c5b80c3060a985bd8a10078a8bd9468f49349766b376", "label": "Boom"}, {"hash": "ac6e64ca-bb87-4c60-bfaf-3a29802b32b22e1dcabdfaabcb510da93fcd56df4482", "label": "Frey"}, {"hash": "df835578-5d14-4d7c-ac7f-97dad392a1ec17afdcaf29f1cddcee52b1c89de9368c", "label": "dread"}, {"hash": "ada492e5-42fc-4919-8502-d2963024b55ab7da2e925cada21a1963352e5901cf95", "label": "star"}],
   "deviceLimit":1,
   "blocklist":[],
   "devId":"97d5c0399c62354dca7624030478d2f2",
